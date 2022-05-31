@@ -12,7 +12,7 @@
 
 param(
     [Parameter(Mandatory = $false)] 
-    [string]$FilePath = ".\Process_list.txt"
+    [string]$FilePath = ".\Proccesses.txt"
 )
 
 # The main function.
