@@ -1,4 +1,4 @@
-Task #1
+
 1. **Error #1 - Hostname Resolution** (most resolution errors occur when the reference to the SSH host can’t be mapped to a network address. While this is almost exclusively DNS related, the root cause isn’t always a DNS issue): 
    - verify the hostname is properly spelled. Typographical errors can strike at any time;
    - verify that you can resolve the hostname on your client machine using the system ping command. Using third-party sites like WhatsMyDns.net to check beyond your own DNS caching can also help confirm the results.
